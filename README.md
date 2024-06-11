@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for opportunities<br>🌱 I’m currently learning MERN Stack and DSA<br>📫 How to reach me garkotisaurabhme@gmail.com
+🔭 I’m currently looking for opportunities<br>🌱 I’m currently learning MERN Stack and DSA<br>📫 You can reach me garkotisaurabhme@gmail.com
 
 
 ## 🌐 Socials:
